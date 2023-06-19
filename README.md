@@ -69,7 +69,7 @@ Takım Flutter 122
 ](https://github.com/humeyraturan/OUA-f122/edit/main/README.md#:~:text=dailyscrum3.-,png,-mirosprint1.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/humeyraturan/OUA-f122/edit/main/README.md#:~:text=dailyscrum3.png-,mirosprint1,-.png) 
+![Backlog 1] <img width="944" alt="mirosprint1" src="https://github.com/humeyraturan/OUA-f122/assets/118187474/3a7e74ff-8d8c-4b2d-8359-818c224c366c">
 
 
 - **Ürün Durumu**: Şu anda yükleyecek bir ürün yok. 
