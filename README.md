@@ -64,9 +64,9 @@ Takım Flutter 122
 
 
 - **Daily Scrum**: Günlük scrum toplantılarının zamansal sebeplerinden dolayı Whatsapp üzerinden yapılmasına karar verilmiştir. Discorddan da sesli toplantılar yapıldı. Günlük Scrum toplantısı örneği word olarak Readme’de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/dailyscrum1.png)[]
-  [](https://github.com/humeyraturan/OUA-f122/edit/main/README.md#:~:text=dailyscrum2.-,png,-dailyscrum3.png)
+  [](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/dailyscrum2.png)
   [
-](https://github.com/humeyraturan/OUA-f122/edit/main/README.md#:~:text=dailyscrum3.-,png,-mirosprint1.png)
+](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/dailyscrum3.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1] <img width="944" alt="mirosprint1" src="https://github.com/humeyraturan/OUA-f122/assets/118187474/3a7e74ff-8d8c-4b2d-8359-818c224c366c">
