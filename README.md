@@ -63,6 +63,10 @@ Takım Flutter 122
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
+- **Sprint Notları** : Uygulama şablonu oluşturulmuştur. Kategoriler kısmı için kodlamaya başlanılmıştır.
+
+
+
 - **Daily Scrum**: Günlük scrum toplantılarının zamansal sebeplerinden dolayı Whatsapp üzerinden yapılmasına karar verilmiştir. Discorddan da sesli toplantılar yapıldı. Günlük Scrum toplantısı örneği word olarak Readme’de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/dailyscrum1.png)[]
   [](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/dailyscrum2.png)
   [
