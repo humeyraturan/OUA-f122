@@ -63,7 +63,7 @@ Takım Flutter 122
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Sprint Notları** : Uygulama şablonu oluşturulmuştur. Kategoriler kısmı için kodlamaya başlanılmıştır.
+- **Sprint Notları** : Kullanıcı giriş kısmı kodlanmıştır. Uygulama şablonu oluşturulmuştur. Kategoriler kısmı için kodlamaya başlanılmıştır.
 
 
 
@@ -77,11 +77,11 @@ Takım Flutter 122
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]
+  ![Screenshot 1](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/u%CC%88ru%CC%88nfoto.png)
  
 
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı girişi ve ana ekran kodlamaya başlandı. Scanner ve mekanlar için araştırmalar devam ediyor. Pazar yeri için kodlamaya başlandı.
+Alınan kararlar: Kullanıcı girişi kodlandı. Ana ekran kodlanıyor. Scanner ve mekanlar için araştırmalar devam ediyor. Pazar yeri için kodlamaya başlandı.
 
 - **Sprint Retrospective:**
 
