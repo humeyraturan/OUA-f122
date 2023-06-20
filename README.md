@@ -76,7 +76,9 @@ Takım Flutter 122
 ![Backlog 1] <img width="944" alt="mirosprint1" src="https://github.com/humeyraturan/OUA-f122/assets/118187474/3a7e74ff-8d8c-4b2d-8359-818c224c366c">
 
 
-- **Ürün Durumu**: Şu anda yükleyecek bir ürün yok. 
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1]
+ 
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı girişi ve ana ekran kodlamaya başlandı. Scanner ve mekanlar için araştırmalar devam ediyor. Pazar yeri için kodlamaya başlandı.
