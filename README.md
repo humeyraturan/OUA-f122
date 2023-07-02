@@ -101,3 +101,48 @@ Alınan kararlar: Kullanıcı girişi kodlandı. Ana ekran kodlanıyor. Scanner 
 
 ---
 
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+  
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+  - **Sprint Notları** : E-ticaret arayüzü oluşturuldu. Log in kısmında firebase tarafına geçildi. Scranner ve mekanlar için kütüphaneler bulundu.
+
+- **Daily Scrum**: Günlük scrum toplantılarını WhatsApp üzerinden mesajlaşarak yaptık. Günlük Scrum toplantısı örneği word olarak Readme’de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](**)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](**) 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 1](**)
+  ![Screenshot 2](**)
+  ![Screenshot 3](**)
+
+- **Sprint Review**: 
+Alınan kararlar: E-ticaret sayfasının arayüzü kodlandı, log in sayfasının firebase bağlantı kısmı kodlanıyor. Kütüphaneler araştırıldı.
+
+- **Sprint Retrospective:**
+   - E-ticaret arayüz tasarımında homepage kodlaması flutter ile tamamlandı.
+   - E ticaret arayüzünde cartpage-profil kısmına devam ediliyor.
+   - Konum hizmetleri için kullanabilecek kütüphane araştırıldı ;
+    •geolocator
+    Kullanıcının konum izinlerinin kontrol edilebilmesi için ;
+    permission=await Geolocator.checkPermission(); 
+    kullanımı üzerinde araştırma yapıldı .İlerleyen süreçte koda dahil edilecektir.
+    Glutensiz yemekleri filtreli bir şekilde çekebilmek için gerekli olan API için seçenek oluşturuldu;
+    •Google Places API
+   - Scanner için kullanılacak kütüphane bulundu.
+   - Log in sayfası yeniden tasarlandı.
+   - Firebase kısmına geçiş yapıldı, kullanıcı girişi kodlanıyor.
+
+
+---
+
+## Product Backlog URL
+
+[Flutter Team 122 Miro Backlog Board](https://miro.com/app/board/uXjVM52vK_8=/)
+
+---
+
