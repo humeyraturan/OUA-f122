@@ -118,8 +118,8 @@ Alınan kararlar: Kullanıcı girişi kodlandı. Ana ekran kodlanıyor. Scanner 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2u%CC%88ru%CC%88nfoto1.jpeg)
-  ![Screenshot 2](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2u%CC%88ru%CC%88nfoto2.png)
+  ![Screenshot 1](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2u%CC%88ru%CC%88nfoto2.png)
+  ![Screenshot 2](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2u%CC%88ru%CC%88nfoto1.jpeg)
   ![Screenshot 3](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2u%CC%88ru%CC%88nfoto4.jpeg)
 
 - **Sprint Review**: 
