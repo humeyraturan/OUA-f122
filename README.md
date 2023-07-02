@@ -105,7 +105,7 @@ Alınan kararlar: Kullanıcı girişi kodlandı. Ana ekran kodlanıyor. Scanner 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
   
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 100 almasına karar verildi.
 
 - **Sprint Notları** : E-ticaret arayüzü oluşturuldu. Log in kısmında firebase tarafına geçildi. Scranner ve mekanlar için kütüphaneler bulundu.
 
