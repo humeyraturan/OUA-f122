@@ -107,13 +107,14 @@ Alınan kararlar: Kullanıcı girişi kodlandı. Ana ekran kodlanıyor. Scanner 
   
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-  - **Sprint Notları** : E-ticaret arayüzü oluşturuldu. Log in kısmında firebase tarafına geçildi. Scranner ve mekanlar için kütüphaneler bulundu.
+- **Sprint Notları** : E-ticaret arayüzü oluşturuldu. Log in kısmında firebase tarafına geçildi. Scranner ve mekanlar için kütüphaneler bulundu.
 
-- **Daily Scrum**: Günlük scrum toplantılarını WhatsApp üzerinden mesajlaşarak yaptık. Günlük Scrum toplantısı örneği word olarak Readme’de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2dailyscrum1.png)
-  [Sprint 2 Daily Scrum Chats](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2dailyscrum2.png)
+- **Daily Scrum**: Günlük scrum toplantılarını WhatsApp üzerinden mesajlaşarak yaptık. Günlük Scrum toplantısı örneği word olarak Readme’de tarafımızdan paylaşılmaktadır:
+- [Sprint 2 Daily Scrum Chats](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2dailyscrum1.png)
+- [Sprint 2 Daily Scrum Chats](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/sp2dailyscrum2.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]((https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/spmirosprint.png))
+![Backlog 1](https://github.com/humeyraturan/OUA-f122/blob/main/ProjectManagement/spmirosprint.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
